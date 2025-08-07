@@ -4,6 +4,8 @@
 
 Complete/review activities using Databricks Notebooks and Databricks SQL. If you have completed all the activities, review notes from the past weeks.
 
+**If you have not yet done so, complete the Entry Assessment on RevaturePro! This will take priority!**
+
 ## Activities
 
 [Squirrel Census Activity](./../Day%203/squirrel_census_activity.md)
