@@ -42,3 +42,27 @@ Phase 2’s purpose is to enforce data governance practices, manage users and gr
 ## Presentation
 
 At the end of this project, you and your team will be required to give a professional presentation. In this presentation, you should cover the technologies utilized, architecture diagram, list of features implemented, queries answered, outstanding defects/issues, challenges faced, and give a thorough project demo.
+
+## Teams
+Team 1
+- Antropov, Stas
+- Hussain, Naveed
+- Mercader del Mar, Allan
+- Shavers, Eli
+
+Team 2
+- Diaz, Desiree
+- Khalate, Akhilesh
+- Mohammed, Saif
+- Swargam, sai Pradeep
+
+Team 3
+- Egnankou, Francis
+- Kondakalla, Kishore
+- Mothukuri, Nihil
+- Zinzuwadia, Samir
+
+Team 4
+- Fliman, Eugene
+- Kulunkoglu, Ubi
+- Patel, Girish
